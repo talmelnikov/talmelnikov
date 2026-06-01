@@ -1,6 +1,6 @@
 # Hi, I'm Tal Melnikov 👋
 
-**Data Engineer @ 888 Holdings | Kafka · Flink · Python · AWS**
+**Data Engineer | Kafka · Flink · Python · AWS**
 
 I build real-time data pipelines at scale — currently processing **180M+ events/day** in production using distributed streaming systems. B.Sc. Software Engineering (AI/ML focus) from Afeka College.
 
